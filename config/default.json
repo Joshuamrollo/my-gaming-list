@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://joshuamrollo:zpAWry1AHeuuanvP@cluster0.dzoyc.mongodb.net/game_list?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myjwtsecret"
+}
