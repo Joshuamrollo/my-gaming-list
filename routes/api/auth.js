@@ -8,7 +8,7 @@ const auth = require('../../middleware/auth')
 //user model
 const User = require('../../models/User');
 
-router.post('/auth', (req, res) => {
+router.post('/login', (req, res) => {
     const {email, password } = req.body;
 
     if(!email || !password){
